@@ -23,7 +23,7 @@ Fully responsive, clean layout, smooth sections, and user-friendly design.
 
 *Tech Used:* HTML5, CSS3, JavaScript
 
-![Project Preview](https://raw.githubusercontent.com/mahmoudrady4/Al-Yosr-Project/main/assets/images/screenshot.jpg)
+![Project Preview](https://raw.githubusercontent.com/mahmoudrady4/Al-Yosr-Project/main/assets/images/hero.jpg)
 
 ---
 
