@@ -1,30 +1,36 @@
-<h1 align="center">Hi there, I'm Mahmoud Rady 👋</h1>
-
-<p align="center">
-  A passionate <b>Frontend Developer</b> who loves building modern, responsive, and high-performance web applications.
-</p>
+<h1 align="center">Hey there, I'm Mahmoud Rady 👋</h1>
+<h3 align="center">Creative Front-End Developer | Passionate about building beautiful UIs</h3>
 
 ---
 
-## 🔥 About Me
+## 👨‍💻 About Me
 
-- 🧠 I specialize in *React, **TypeScript, and modern **CSS frameworks* like Tailwind and Sass.
-- 💼 Currently working on high-impact frontend projects and always looking to collaborate on exciting ideas.
-- 🚀 Always exploring the latest web trends and tools to build beautiful and scalable interfaces.
-- 📚 Currently learning more about performance optimization and advanced animations in React.
+I'm a dedicated Front-End Developer who transforms ideas into stunning and responsive web experiences.  
+I focus on writing clean, maintainable code and bringing life to UIs with smooth animations and modern design principles.
+
+- 🎯 Focused on React, HTML, CSS, JavaScript
+- 🧠 Always learning and exploring new technologies
+- 📫 Reach me anytime via email: *mahmoudrady5181@gmail.com*
 
 ---
 
-## 🛠 Languages & Tools
+## 🚀 Featured Project
+
+### [Al-Yosr Project](https://mahmoudrady4.github.io/Al-Yosr-Project/)
+
+An elegant and responsive website designed and developed for a real-world business.  
+Fully responsive, clean layout, smooth sections, and user-friendly design.
+
+*Tech Used:* HTML5, CSS3, JavaScript
+
+![Project Preview](https://raw.githubusercontent.com/mahmoudrady4/Al-Yosr-Project/main/assets/images/screenshot.jpg)
+
+---
+
+## 🧰 My Tech Toolbox
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,github,vscode" />
 </p>
 
 ---
@@ -38,18 +44,10 @@
 
 ---
 
-## 🌍 Connect with me
+## 📬 Contact Me
 
-<p>
-  <a href="https://www.linkedin.com/in/mahmoudrady4" target="_blank">LinkedIn</a> |
-  <a href="mailto:mahmoud@example.com">Email</a> |
-  <a href="https://github.com/mahmoudrady4" target="_blank">GitHub</a>
-</p>
+*Email:* [mahmoudrady5181@gmail.com](mailto:mahmoudrady5181@gmail.com)
 
 ---
 
-## ⚡ Fun Fact
-
-> I can turn coffee into beautiful user interfaces!
-
----
+> “Great design is invisible, but its impact is unforgettable.”
