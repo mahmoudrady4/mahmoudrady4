@@ -1,51 +1,55 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi there, I'm Mahmoud Rady 👋</h1>
 
-###
+<p align="center">
+  A passionate <b>Frontend Developer</b> who loves building modern, responsive, and high-performance web applications.
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
+---
 
-###
+## 🔥 About Me
 
-<h1 align="center">hey there 👋</h1>
+- 🧠 I specialize in *React, **TypeScript, and modern **CSS frameworks* like Tailwind and Sass.
+- 💼 Currently working on high-impact frontend projects and always looking to collaborate on exciting ideas.
+- 🚀 Always exploring the latest web trends and tools to build beautiful and scalable interfaces.
+- 📚 Currently learning more about performance optimization and advanced animations in React.
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🛠 Languages & Tools
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
-<p align="left">I'm Mahmoud Rady</p>
+---
 
-###
+## 📊 GitHub Stats
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudrady4&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrady4&theme=radical" width="48%" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
+## 🌍 Connect with me
 
-###
+<p>
+  <a href="https://www.linkedin.com/in/mahmoudrady4" target="_blank">LinkedIn</a> |
+  <a href="mailto:mahmoud@example.com">Email</a> |
+  <a href="https://github.com/mahmoudrady4" target="_blank">GitHub</a>
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## ⚡ Fun Fact
+
+> I can turn coffee into beautiful user interfaces!
+
+---
